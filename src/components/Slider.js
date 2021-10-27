@@ -1,5 +1,5 @@
 import t1 from "../vendor/images/t1.jpg";
-import t2 from "../vendor/images/t2.jpg";
+import taj4 from "../vendor/images/taj4.jpeg";
 import t3 from "../vendor/images/t3.jpg";
 import t4 from "../vendor/images/t4.jpg";
 
@@ -49,7 +49,7 @@ export default function Slider() {
             text="This is the first pic"
           />
           <Slide
-            photo={t2}
+            photo={taj4}
             active=""
             title="Travel-2"
             text="This is the Second pic"
