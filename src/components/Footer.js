@@ -7,6 +7,7 @@ export default function Footer() {
       <footer>
           
       <div>
+        <div className="container">
                <div className="bg-dark text-light">
                 <div className="row" style={{borderBottom: "2px solid white"}}>
                          <div className="col md 4">
@@ -36,6 +37,7 @@ export default function Footer() {
                          </div>
                 </div>
                 <p className="text-center mt-2">2021@ all rights are reserved</p>
+               </div>
                </div>
         </div>
       </footer>
